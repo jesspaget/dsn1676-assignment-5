@@ -11,3 +11,8 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+.list-field {
+    width: 300px;
+    position: absolute;
+}
