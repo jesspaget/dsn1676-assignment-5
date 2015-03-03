@@ -16,3 +16,26 @@ html {
     width: 300px;
     position: absolute;
 }
+
+.form {
+    font-family: sans-serif;
+    color: white;
+    padding: 1rem;
+}
+
+.formandlist {
+    margin: 5rem;
+    background-color: #683232;
+    max-width: 20rem;
+    border: solid 1px black;
+    border-radius: 2rem;
+}
+
+body {
+    background-color: #9ABBEF;
+}
+
+.js-highlight {
+    color: grey;
+    text-decoration: line-through;
+}
